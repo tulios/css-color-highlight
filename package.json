@@ -1,6 +1,6 @@
 {
   "name": "css-color-highlight",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "main": "./lib/main",
   "description": "Highlight colors",
   "repository": "https://github.com/tulios/css-color-highlight",
