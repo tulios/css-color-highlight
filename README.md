@@ -1,5 +1,11 @@
 # css-color-highlight package
 
-Adds the hex/rgb color in the background of the color element 
+Highlight colors
 
 ![sample](https://raw.github.com/tulios/css-color-highlight/master/sample.png)
+
+## How to install
+
+```sh
+apm install css-color-highlight
+```
