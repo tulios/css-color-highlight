@@ -2,7 +2,7 @@
 
 Highlight colors
 
-![sample](https://raw.github.com/tulios/css-color-highlight/master/sample.png)
+![sample](https://raw.github.com/tulios/css-color-highlight/master/sample1.png)
 
 ## How to install
 
