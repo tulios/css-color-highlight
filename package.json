@@ -1,0 +1,13 @@
+{
+  "name": "css-color-highlight",
+  "version": "0.1.0",
+  "main": "./lib/main",
+  "description": "Adds the hex/rgb color in the background of the color element ",
+  "repository": "https://github.com/tulios/css-color-highlight",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
