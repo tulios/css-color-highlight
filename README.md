@@ -1,8 +1,8 @@
 # css-color-highlight package
 
-Highlight colors
+Highlight colors. Supports hexa, rgb, rgba, hsl and hsla.
 
-![sample](https://raw.github.com/tulios/css-color-highlight/master/sample1.png)
+![sample](https://raw.github.com/tulios/css-color-highlight/master/sample2.png)
 
 ## How to install
 
