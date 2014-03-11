@@ -4,11 +4,15 @@ module.exports =
 class ColorUtil
 
   @RGBtoHex: (rgb) ->
-    colr = '#'
+    colr = ''
     colr += Math.floor(rgb[0]).toString(16)
     colr += Math.floor(rgb[1]).toString(16)
     colr += Math.floor(rgb[2]).toString(16)
-    colr
+
+    while colr.length < 6
+      colr = "0#{colr}"
+
+    "##{colr}"
 
   @RGBtoHSL: (rgb) ->
     r = rgb[0]
