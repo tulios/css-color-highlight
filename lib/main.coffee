@@ -8,7 +8,7 @@ module.exports =
 
   activate: ->
     @highlighters = []
-    
+
     atom.workspaceView.eachEditorView (editorView) =>
       cssColorHighlight = new CssColorHighlight(editorView)
       @highlighters.push(cssColorHighlight);
